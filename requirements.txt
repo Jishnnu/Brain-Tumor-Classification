@@ -1,0 +1,6 @@
+os
+tensorflow
+keras
+numpy
+gradio
+Pillow
