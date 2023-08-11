@@ -1,5 +1,5 @@
 # Brain Tumor Classification
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Jishnnu/Brain-Tumor-Classification)](https://github.com/Jishnnu/Brain-Tumor-Classification) &ensp; [![GitHub repo size](https://img.shields.io/github/repo-size/Jishnnu/Brain-Tumor-Classification)](https://github.com/Jishnnu/Brain-Tumor-Classification) &ensp; [![Open in HuggingFace Spaces](https://img.shields.io/static/v1?label=Open%20in&message=Gradio&color=blueviolet)](https://huggingface.co/spaces/Jishnnu/Brain-Tumor-Detection)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Jishnnu/Brain-Tumor-Classification)](https://github.com/Jishnnu/Brain-Tumor-Classification) &ensp; [![GitHub repo size](https://img.shields.io/github/repo-size/Jishnnu/Brain-Tumor-Classification)](https://github.com/Jishnnu/Brain-Tumor-Classification) &ensp; [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/Jishnnu/Brain-Tumor-Detection)
 
 This repository contains all the materials related to Case Study 2 in the book **_A Guide to Applied Machine Learning for Biologists_**. 
 
