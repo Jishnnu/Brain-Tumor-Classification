@@ -8,6 +8,5 @@ Please make sure that you change the existing path specification with your custo
 CREDITS
 1.	MRI Brain Tumor Image Dataset
 	https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-
 2.	ResNet101
 	https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet
